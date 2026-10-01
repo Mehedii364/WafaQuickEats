@@ -1,0 +1,6 @@
+{
+  "name": "Wafa QuickEats",
+  "description": "Fast Food. Live Tracking. Smart Delivery. Wafa Zone by Mehedi364",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
